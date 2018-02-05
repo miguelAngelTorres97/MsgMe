@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/HatePain666/Calls.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/miguelTorres97/callSpy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/CallSpy" />
   </component>
 </application>
